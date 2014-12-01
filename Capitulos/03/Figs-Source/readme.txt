@@ -1,0 +1,1 @@
+Pasta destinada para conter os arquivos editaveis das figuras. Arquivos CoreL por exemplo.
