@@ -1,3 +1,7 @@
+# Projeto Arquivado
+A UFSC possui um template próprio mantido no github da instituição em https://github.com/UFSC/ufscthesisx.
+
+
 abntex2-ufsc
 =================
 
